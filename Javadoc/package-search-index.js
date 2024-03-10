@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.bankinggui","l":"bankingsoftware"},{"m":"com.bankinggui","l":"com.bankinggui"}];updateSearchResults();
